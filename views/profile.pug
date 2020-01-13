@@ -1,0 +1,17 @@
+extends default
+
+block header
+
+block content
+  div.profile
+    div.profile-image(style=`background: url('/images/${book.imgSrc}') top center
+    no-repeat; background-size: cover;`)
+    div.profile-details
+      h1.profile-name
+        | #{book.name}
+      h2.profile-tagline
+        | #{book.author}
+      p.profile-bio
+        | #{book.bio}
+      a.button.button-page(href=`${book.page}`)
+        | Kup książkę

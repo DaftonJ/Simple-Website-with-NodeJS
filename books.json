@@ -1,0 +1,68 @@
+{
+  "profiles": [
+    {
+      "name": "Ostatnie Życzenie",
+      "author": "Andrzej Sapkowski",
+      "bio":"Pierwsza część ponadczasowej sagi wiedźmińskiej. Poznaj początek historii Geralta z Rivii i przeżyj niezapomniane przygody, pełne magii i wyjątkowych zdarzeń. Geralt to wiedźmin, czyli ktoś, kto trudni się mordowaniem różnych bestii za pieniądze. Co ciekawe, tak naprawdę trudno byłoby go nazwać zwyczajnym człowiekiem, tak samo, jak nigdy nie jest i nigdy nie będzie przeciętnym wiedźminem. Ma bardzo prosty system moralny, dzieli rzeczy na dobre i złe, nie wierząc w półśrodki. Poznaje Yennefer z Vengerbergu, czarodziejkę, która staje się jego prawdziwą miłości. Geralt nie lubi zabijać i robi to wyłącznie wtedy, gdy naprawdę musi. Zdecydowanie częściej decyduje się na odprawienie uroku, bo i tak może pomóc niektórym osobom. Wiedźmin odbywa wędrówkę, wciąż poszukując kolejnych zleceń. Na swojej drodze napotyka rozmaite osoby: te dobre i te złe. Musi bardzo się pilnować, by nie dać się wykorzystać do niecnych celów. Czy uda mu się przetrwać? Czy uchroni niewinnych ludzi przed złem? Poznaj początek pięknej opowieści o przeznaczeniu, ktora otwiera uwielbianą przez krytyków i czytelników wiedźmińską sagę.",
+      "page": "https://www.taniaksiazka.pl/wiedzmin-tom-1-ostatnie-zyczenie-andrzej-sapkowski-p-503247.html",
+      "imgSrc": "ostatnie_zyczenie.jpg",
+      "id": "ostatnie_zyczenie"
+    },
+
+    {
+      "name": "Narciarz Doskonały",
+      "author": "LeMaster Ron",
+      "bio":
+      "Kochasz jeździć na nartach? A może Twoi bliscy? Kochasz jeździć na nartach? A może Twoi bliscy? To dobrze trafiłeś. Masz szansę kupić prawdopodobnie najlepszą książkę o narciarstwie dostępną na polskim rynku. Nie jest to książka a`la nauka jazdy w weekend. Nie jest to również techniczny bełkot zrozumiały tylko dla autora. Książka jest dogłębna, jeśli chodzi o ujęcie tematu i zrozumiała, jeśli chodzi o język przekazu. Ron LeMaster pomoże Ci opanować aspekty mechaniczne konieczne do doskonałej jazdy. Objaśni jak się je wykonuje, dokona ich prezentacji oraz opisze, jakich doświadczysz przy tym odczuć. Dzięki tej książce, wiele się nauczysz o interakcji nart ze śniegiem oraz najskuteczniejszych sposobach manewrowania nartami, butami i kijkami na najbardziej stromych stokach, na olbrzymich muldach i w najgłębszym puchu. Porady techniczne i kinetyczne objaśniającą odczucia przy każdym ruchu. Wykorzystaj w pełni swój potencjał. Kup i delektuj się każdą chwilą na stoku.",     
+      "page": "https://www.empik.com/narciarz-doskonaly-lemaster-ron,prod29880096,ksiazka-p?gclid=Cj0KCQiAgebwBRDnARIsAE3eZjRO7YzNAv5jnXQHqz_8WEdIt82ZZfzKaFvmYR15_POt4K8DLNEA8-caAqigEALw_wcB&gclsrc=aw.ds",
+      "imgSrc": "narciarstwo.jpg",
+      "id": "narciarz"
+    },
+
+    {
+      "name": "HTML i CSS",
+      "author": "Jon Duckett ",
+      "bio":
+      "HTML i CSS. Zaprojektuj i zbuduj witrynę WWW. Podręcznik Front End-Developera to znakomicie napisany przewodnik, który pozwoli Ci poznać tajniki tworzenia stron WWW! Oto pozycja, która znacząco ułatwi Ci zrozumienie zagadnień związanych z budowaniem stron WWW. HTML i CSS. Zaprojektuj i zbuduj witrynę WWW. Podręcznik Front End-Developera to ceniona przez specjalistów książka, która szybko stała się prawdziwym bestsellerem. Posiadanie własnej strony WWW staje się współcześnie coraz częściej nie tylko dobrą praktyką, ale wręcz wymogiem - to idealny sposób na zdobycie lepszej pracy i poszerzenie swoich kwalifikacji. Znajdziesz dzięki temu nowych klientów i zaprezentujesz się w sposób bardziej profesjonalny. Co w przypadku, gdy temat tworzenia takich stron jest Ci zupełnie obcy? Nic straconego! Ta pozycja wprowadzi Cię w świat budowania stron WWW od samych podstaw. Dowiesz się z niej, jak uzyskać niezbędny dostęp do serwera i jak wreszcie opublikować swoją stronę. Sięgając po poniższą lekturę HTML i CSS. Zaprojektuj i zbuduj witrynę WWW. Podręcznik Front End-Developera, unikniesz typowych problemów i od razu stworzysz profesjonalnie wyglądającą i - co najważniejsze - działającą stronę WWW!  Jon Duckett jest autorem i współautorem wielu książek. Zawodowo zajmuje się projektowaniem i budowaniem serwisów dla startupów.",
+      "page": "https://www.taniaksiazka.pl/html-i-css-zaprojektuj-i-zbuduj-witryne-www-podrecznik-front-end-developera-jon-duckett-p-1050730.html?q=html+i+css.+zaprojektuj+i+zbuduj+witryn%ea+www.+podr%eacznik+front-end+developera&sgtype=prodonecol",
+      "imgSrc": "html_css.jpg",
+      "id": "html_css"
+    },
+    {
+      "name": "Narciarstwo wysokogórskie w Alpach Tom 1",
+      "author": "Bill Oconnor",
+      "bio":
+      "Pierwszy z dwóch tomów przewodnika narciarskiego po Alpach. Góry te są jednym z najwspanialszych i najłatwiej dostępnych terenów do uprawiania narciarstwa wysokogórskiego na świecie. Oferują piękną i zróżnicowaną scenerię, długi sezon narciarski, gęstą sieć schronisk i znakomity transport publiczny. Prezentowany przewodnik opisuje wybór najciekawszych tras wysokogórskich w zachodniej części Alp, w rejonie Écrins, Vanoise, Haute Maurienne, Gran Paradiso, Mont Blanc i Zermatt. Jest to zaproszenie do fantastycznej przygody z narciarstwem wysokogórskim zarówno dla osób o dużym doświadczeniu i umiejętnościach, jak i dla przeciętnych narciarzy.",
+      "page": "https://www.taniaksiazka.pl/narciarstwo-wysokogorskie-w-alpach-tom-1-bill-oconnor-p-330762.html",
+      "imgSrc": "narciarstwo_wysokogorskie.jpg",
+      "id": "narciarstwo_wys"
+    },
+    {
+      "name": "Miecz przeznaczenia",
+      "author": "Andrzej Sapkowski",
+      "bio":
+      "Drugi z kolei tom popularnej serii o Wiedźminie, pogromcy potworów, który nie cofnie się przed niczym. Jaka przygoda spotka go tym razem? Geralt nie ma łatwego życia, mimo że jest doskonale wyćwiczony w tym, co robi i posiada niezaprzeczalny talent. Tym razem przedstawia Czytelnikowi swoją złotą zasadę: nie zabija smoków, ponieważ to gatunek, który jest zagrożony wymarciem. Zgodnie z kodeksem, dozwolone jest jedynie usuwanie latawców, oszluzgów oraz widłogonów. Tym razem jednak powinien chyba zrobić wyjątek. Pewien wyjątkowo irytujący smok daje się we znaki społeczności i niejeden człowiek z całego serca życzy mu śmierci. Właśnie dlatego grupa smokobójców wyrusza, by się z nim rozprawić. Oprócz Geralta, jest wśród nich Yennefer, Rębacze z Crinfrid oraz Eyck z Denesle. Z tym konkretnym gadem nie pójdzie im jednak wcale tak łatwo. Andrzej Sapkowski to polski pisarz zajmujący się tworzeniem literatury fantasy. Cały świat zna go z popularnej serii o Wiedźminie. Przyszedł na świat w Łodzi w 1948 roku. Jego książki są tłumaczone na wiele języków obcych. Z początku zajmował się tłumaczeniami, a dopiero później rozpoczął pisanie opowiadań o Wiedźminie. Jest laureatem bardzo wielu nagród, w tym chociażby pięciokrotnej Nagrody im. Janusza A. Zajdla oraz kilkukrotnym zdobywcą tytułu Twórca Roku, który przyznaje Śląski Klub Fantastyki. Jest znany także szerszej publiczności, o czym świadczy międzynarodowa nagroda World Fantasy Award w kategorii Osiągnięcie życia w roku 2016.",
+      "page": "https://www.taniaksiazka.pl/wiedzmin-tom-2-miecz-przeznaczenia-andrzej-sapkowski-p-1314164.html?q=wied%bcmin.+tom+2.+miecz+przeznaczenia&sgtype=prodonecol",
+      "imgSrc": "miecz_przeznaczenia.jpg",
+      "id": "miecz_przeznaczenia"
+    },
+    {
+      "name": "HTML, CSS i JavaScript dla każdego",
+      "author": "Laura Lemay",
+      "bio":
+      "Internet to nasza codzienność. Znakomita większość firm ma swoje strony internetowe. Coraz więcej ludzi prowadzi blogi czy profile w mediach społecznościowych. I choć żeby publikować w internecie, nie musisz być profesjonalnym projektantem, to jednak aby mieć kontrolę nad wyglądem i funkcjonalnością witryny, warto znać podstawy HTML, CSS i JavaScriptu. To wcale nie takie trudne! Dzięki tej książce nauczysz się pisać poprawne, sprawnie działające strony WWW. Znajdziesz tu dwadzieścia pięć lekcji — każda zajmie Ci około godziny. W jednym miejscu zebrano i uporządkowano wszystkie informacje niezbędne do budowania witryn internetowych. Nie tylko pokazano tu, jak tworzyć świetne witryny internetowe, ale również zawarto wskazówki, jak zachęcić użytkowników do ich odwiedzania. Poszczególne zagadnienia zaprezentowano w przejrzysty sposób. Aby ułatwić Czytelnikowi przyswajanie materiału, w książce zamieszczono pytania sprawdzające, ćwiczenia i quizy. Rafe Colburn jest programistą sieciowym z przeszło piętnastoletnim doświadczeniem w dziedzinie budowania witryn internetowych. Napisał kilka książek o różnych technikach tworzenia aplikacji sieciowych. Jennifer Kyrnin jest projektantką witryn WWW. Technologiami internetowymi zajmuje się od 1995 roku. Autorka wielu popularnych podręczników z tej dziedziny. Laura Lemay jest jedną z najpoczytniejszych na świecie autorek książek dotyczących programowania sieciowego.",
+      "page": "https://www.taniaksiazka.pl/html-css-i-javascript-dla-kazdego-laura-lemay-p-813024.html",
+      "imgSrc": "html_css_javascript.jpg",
+      "id": "html_css_js"
+    },
+    {
+      "name": "Przewodnik przyrodniczy po Tatrach Polskich",
+      "author": "Tomasz Skrzydłowski",
+      "bio":
+      "To już trzecie, poprawione i uzupełnione wydanie tej bestsellerowej pozycji, która ukazała się nakładem TPN po raz pierwszy w roku 2010. Książka Tomasza Skrzydłowskiego to obszerne kompendium wiedzy przyrodniczej, ale nie tylko. Zawiera liczne informacje o dziejach poznania przyrody Tatr, historii jej ochrony, o ludziach, którzy Tatrom poświęcili swoje życie. W części ogólnej znajdziemy systematyczny opis aktualnej wiedzy o klimacie, glebach, szacie roślinnej i świecie zwierząt, a także o stosunku człowieka do przyrody i jego wpływie na zmiany w niej zachodzące. Lekkie pióro i przystępna forma sprawiają, że ta część jest zajmującą lekturą, bogatą w liczne przykłady łatwe do zaobserwowania przez zwykłego turystę. Wiedza szczegółowa przekazana jest w opisach 28 tras z licznymi ich wariantami. Nie są to opisy teoretyczne. Autor, prowadząc nas niemal za rękę przez świat przyrody tatrzańskiej, zachęca, aby pochylić się nad każdym przejawem życia. Pokazuje co i gdzie rośnie - świat kwiatów, traw, drzew przestaje być anonimowym elementem krajobrazu, unaocznia skomplikowane zależności, tłumaczy co, jak i dlaczego. Książkę ilustruje blisko 800 barwnych fotografii, map i rysunków, co sprawia, że chętnie ją przewertujemy w domu, a jeszcze chętniej sięgniemy do niej na trasie wycieczki. Niezwykle cennym dodatkiem jest atlas roślin tatrzańskich, pokazujący i schematycznie opisujący ponad 300 gatunków roślin, na które możemy natrafić na tatrzańskim szlaku. To największe jak do tej pory popularne zestawienie tatrzańskiej flory. Alfabetyczny układ jest ściśle powiązany z opisami tras: przeczytawszy tam informację o konkretnym gatunku, łatwo odszukamy go w atlasie, a na podstawie fotografii bez większego trudu zidentyfikujemy.",
+      "page": "https://www.taniaksiazka.pl/przewodnik-przyrodniczy-po-tatrach-polskich-tomasz-skrzydlowski-p-872488.html",
+      "imgSrc": "tatry.jpg",
+      "id": "tatry"
+    }
+  ]
+}

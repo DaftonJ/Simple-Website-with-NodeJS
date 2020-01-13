@@ -1,0 +1,14 @@
+extends default
+
+block content
+  div.container
+    each book in books
+      div.book
+        div.book-image(style=`background: url('/images/${book.imgSrc}') top center
+        no-repeat; background-size: cover;`)
+        h2.book-name
+          | #{book.name} 
+        h3.book-name
+          | #{book.author}
+        a(href=`/profile?id=${book.id}`)
+          | View Book Details
